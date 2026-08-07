@@ -26,10 +26,9 @@
 
 ## 📅 Schedules and Calendars
 
-- [Bell Schedule](https://nc01911451.schoolwires.net/Page/50689) *(site)*
-- [Schedule Change Request Form](https://docs.google.com/forms/d/e/1FAIpQLSc_ghB-CXLTNBoYMTEiNDVvGvCJ1L2AFKBZpLYkQXwLBk46AA/viewform) *(form)*
-- [School Calendar](https://nc01911451.schoolwires.net/Page/5424#calendar11750/20260504/month) *(site)*
-- [WCPSS Traditional Calendar](https://nc01911451.schoolwires.net/cms/lib/NC01911451/Centricity/Domain/19/25-26%20TRAD%20updated%2002022026.pdf) *(pdf)*
+- [Bell Schedule](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-our-school-calendar-and-schedules/post/bell-schedule-1772034859903) *(site)*
+- [Schedule Change Request Form](https://tinyurl.com/mr3radru) *(form)*
+- [School Calendar](https://crossroadsflexhs.wcpss.net/our-school/calendar-and-schedules) *(site)*
 - [Testing Calendar](https://docs.google.com/document/d/1tEVQiU2D-aU0QcxCebiV3CdC8_KyGlBF_Q1DdwRN3vk/edit?usp=sharing) *(doc)*
 
 ## ✅ Attendance
@@ -42,7 +41,7 @@
 
 ## 👪 Family Onboarding Resources
 
-- [WCPSS Parent Canvas Account](https://www.wcpss.net/Page/51339) *(site)*
+- [WCPSS Parent Canvas Account](https://wcpss.instructure.com/login/canvas) *(site)*
 - [NCVPS Parent Canvas Account](https://ncvps.org/parent-app-portal/) *(site)*
 - [NCVirtual Support](https://ncvps.org/guide-for-parents-and-mentors/) *(site)*
 - [New FLEX Family Orientation (Coming Soon)](https://www.canva.com/design/DAGqJlEHFEw/8AXCiu7iYxyS-m8R7Vn9Ww/edit?utm_content=DAGqJlEHFEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) *(design)*
@@ -51,11 +50,9 @@
 - [Parent Resource Guide](https://drive.google.com/file/d/1JDQ7QyaGHTTkgsNxDpGPiu1z8KlubeYv/view?usp=sharing) *(drive)*
 
 ## 🎯 Student Expectations
-
-- [Parent Resource Guide](https://drive.google.com/file/d/1vtpkivvqQ6SZaGg2cnASOZY1f1Qv8P05/view) *(drive)*
-- [Driver's Education](https://nc01911451.schoolwires.net/domain/10923) *(site)*
-- [WCPSS Handbook](https://www.wcpss.net/handbook) *(site)*
-- [FLEX Handbook](https://nc01911451.schoolwires.net/domain/9352) *(site)*
+- [Student Policies](https://crossroadsflexhs.wcpss.net/student-life/student-policies) *(site)*
+- [WCPSS Handbook](https://www.wcpss.net/about-us/policies/student-family-handbook) *(site)*
+- [Driver's Education](https://www.wcpss.net/academics/high-school/student-driving/driver-education) *(site)*
 - [Technology Support](https://www.wcpss.net/student-life/student-technology) *(site)*
 - [School Cash Online](https://wcpss.schoolcashonline.com/) *(payments)*
 - [Positive Behavior Expectations](https://nc01911451.schoolwires.net/domain/17414) *(site)*
@@ -72,12 +69,11 @@
 
 ## 🎉 Clubs and Activities
 
-- [Overview](https://nc01911451.schoolwires.net/domain/13431) *(site)*
+- [Overview](https://crossroadsflexhs.wcpss.net/student-life/clubs-and-activities) *(site)*
 - [Club Proposal](https://nc01911451.schoolwires.net/Page/52364) *(site)*
-- [National Honor Society](https://nc01911451.schoolwires.net/Page/33307) *(site)*
-- [PULSE](https://nc01911451.schoolwires.net/Page/36521) *(site)*
-- [Yearbook](https://nc01911451.schoolwires.net/Page/36522) *(site)*
-- [Yearbook Ordering](https://nc01911451.schoolwires.net/domain/12234) *(site)*
+- [National Honor Society](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-student-life-clubs-and-activities/post/national-honor-society) *(site)*
+- [PULSE Student Leadership](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-student-life-clubs-and-activities/post/pulse-student-leadership) *(site)*
+- [Yearbook](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-student-life-clubs-and-activities/post/yearbook) *(site)*
 
 ## 🧾 Crossroads FLEX Forms
 
@@ -99,9 +95,8 @@
 
 ## 🤝 Parent Teacher Student Association
 
-- [PLEASE JOIN!!!](https://crossroadsflex.givebacks.com/shop?category=5357) *(store)*
+- [PLEASE JOIN THE PTSA!!](https://crossroadsflex.givebacks.com/shop?category=5357) *(store)*
 - [PTSA Website](http://www.crossroadsflexptsa.org/) *(site)*
-- [Parent Teacher Association](https://nc01911451.schoolwires.net/domain/11960) *(site)*
 - [Get Involved](https://forms.gle/bo7Y3jTCNP82eKBaA) *(form)*
 - [Sign-up Genius- Donate items or time!](https://www.signupgenius.com/go/10C0D4CA9A628A6F4C52-50407712-volunteer#/) *(forms)*
 - [Spirit Wear](https://crossroadsflex.givebacks.com/shop?category=5354) *(store)*
