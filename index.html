@@ -24,6 +24,7 @@ header{
   margin-bottom:18px;
 }
 .brand{ display:flex; align-items:center; gap:14px; }
+  .logo img{ display:block; border-radius:12px; }
 h1{ font-size: clamp(20px, 3.4vw, 28px); margin:0 }
 .tools{ display:flex; gap:10px; align-items:center; flex-wrap:wrap }
 input[type="search"]{
@@ -69,6 +70,9 @@ footer{
 <div class="wrap">
   <header role="banner" aria-label="Dashboard header">
     <div class="brand">
+      <div class="logo" aria-hidden="true">
+          <img src="Logo.png" alt="FLEX PTSA" height="52" width="120" decoding="async">
+        </div>
       <div>
         <div class="tag">Crossroads FLEX</div>
         <h1>Family Dashboard</h1>
