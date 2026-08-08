@@ -1,19 +1,17 @@
 # Crossroads FLEX High School – Family Dashboard
 
-## 🏫 About Our School
+## 🏫 About FLEX
 
-- [Principal Message](https://crossroadsflexhs.wcpss.net/our-school/school-news) *(site)*
+- [Principal Messages](https://crossroadsflexhs.wcpss.net/our-school/school-news) *(site)*
+- [Principals](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-academics-departments/post/administration) *(site)*
+- [Support Staff](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-academics-departments/post/support-staff) *(site)*
+- [Teachers](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-academics-departments/post/instructional-staff) *(site)*
 - [Contact Us](https://crossroadsflexhs.wcpss.net/our-school/contact-us) *(site)*
-- [Staff Directory](https://crossroadsflexhs.wcpss.net/our-school/faculty-staff-directory) *(site)*
-- [Facebook](https://www.facebook.com/people/Crossroads-FLEX-High-School/100095555411790/?mibextid=eQY6cl) *(social)*
-- [Instagram](https://www.instagram.com/crossroadsflex/) *(social)*
 
 ## 📅 Schedules and Calendars
 
 - [Bell Schedule](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-our-school-calendar-and-schedules/post/bell-schedule-1772034859903) *(site)*
-- [Schedule Change Request Form](https://tinyurl.com/mr3radru) *(form)*
 - [School Calendar](https://crossroadsflexhs.wcpss.net/our-school/calendar-and-schedules) *(site)*
-- [Testing Calendar](https://docs.google.com/document/d/1tEVQiU2D-aU0QcxCebiV3CdC8_KyGlBF_Q1DdwRN3vk/edit?usp=sharing) *(doc)*
 
 ## 🤝 Parent Teacher Student Association
 
@@ -24,20 +22,8 @@
 
 ## 📚 Academics
 
-- [Grading Plan](https://docs.google.com/document/d/e/2PACX-1vSxXRrImceldUEHZtaIbA0thrJ_MfCFWqLstfRFM6KiByzBP5ZGAXYGRxH_YxXHB3srsPgYAdrv_qOj/pub) *(doc)*
+- [Grading Plan](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-academics-resources/post/flex-grading-policy) *(site)*
 - [Late Work Policy](https://docs.google.com/document/d/1C1UzQpdFL7BKnhkuJ6-DSG8vTbdi7_SVV2TXKv9csNw/edit?usp=sharing) *(doc)*
-- [Advisory FAQ](https://docs.google.com/document/d/e/2PACX-1vTnZhlsPeJBl0130uRSa_P4ct8pUyLcXR3M1DXt0zqb6kWw7GcmvF_TAWwP27jNzQOCek2R9E97CeuK/pub) *(doc)*
-
-## 🧭 Student Services
-
-- [Counselor Info](https://nc01911451.schoolwires.net/Page/54155) *(site)*
-- [Program Planning Guide](https://drive.google.com/file/d/1p-6wRURFgu5cEwhvF0UE9wcymU8-csSy/view?usp=sharing) *(drive)*
-- [Transcripts/Records Request](https://nc01911451.schoolwires.net/Page/54158) *(site)*
-- [CCP (College & Career Promise)](https://nc01911451.schoolwires.net/Page/54947) *(site)*
-- [Course Registration](https://nc01911451.schoolwires.net/Page/54156) *(site)*
-- [Grade Level Information](https://nc01911451.schoolwires.net/Page/54159) *(site)*
-
-
 
 ## ✅ Attendance
 
@@ -46,6 +32,20 @@
 - [Request Remote Status](https://drive.google.com/file/d/1ZTbgDpjzdsZHPYK2253FnQejJGhwCMSe/view?usp=sharing) *(drive)*
 - [Seat time Adjustment Chart](https://docs.google.com/document/d/1eTfm9v1uuydSgLYPQujI9-QbgVWYpioBOjDUpe2PlJk/edit?usp=sharing) *(doc)*
 - [AllTimely Guardian Portal](https://guardian.alltimely.com/) *(portal)*
+
+## 🧭 Student Services
+
+- [Dean of Students](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-student-life-student-services-contact-us/post/meet-your-dean-of-students) *(site)*
+- [Counselor Info](https://nc01911451.schoolwires.net/Page/54155) *(site)*
+- [Program Planning Guide](https://drive.google.com/file/d/1p-6wRURFgu5cEwhvF0UE9wcymU8-csSy/view?usp=sharing) *(drive)*
+- [Transcripts/Records Request](https://nc01911451.schoolwires.net/Page/54158) *(site)*
+- [CCP (College & Career Promise)](https://crossroadsflexhs.wcpss.net/page-detail/~board/family-resources/post/college-credit-opportunities-1759865478365) *(site)*
+- [Course Registration](https://nc01911451.schoolwires.net/Page/54156) *(site)*
+- [Grade Level Information](https://nc01911451.schoolwires.net/Page/54159) *(site)*
+
+
+
+
 
 ## 👪 Family Onboarding Resources
 
@@ -92,6 +92,8 @@
 - [Off-Campus Lunch Pass Application](https://docs.google.com/document/d/e/2PACX-1vSOegqKiauCr-LuAf44DffAniphbQ_Jh6eUgxXNULlu8tHVx_oSDqXl7O0Tei3LOA/pub) *(doc)*
 - [Picture Day Order Form](https://drive.google.com/file/d/1KyGFC0h0D4GjoXsvZ_lN7mGVAromW5ui/view?usp=sharing) *(drive)*
 
+- [Schedule Change Request Form](https://tinyurl.com/mr3radru) *(form)*
+
 ## ⚖️ WCPSS Policy and Forms
 
 - [Student Device Agreement for Chromebook Check Out](https://www.wcpss.net/u/~board/family-resources/post/chromebook-device-information) *(site)*
@@ -103,9 +105,12 @@
 
 
 ## 📝 Additional School Information
+- [Testing Calendar](https://docs.google.com/document/d/1tEVQiU2D-aU0QcxCebiV3CdC8_KyGlBF_Q1DdwRN3vk/edit?usp=sharing) *(doc)*
 - [School Improvement](https://crossroadsflexhs.wcpss.net/our-school/school-improvement-plan) *(site)*
+- [Facebook](https://www.facebook.com/people/Crossroads-FLEX-High-School/100095555411790/?mibextid=eQY6cl) *(social)*
+- [Instagram](https://www.instagram.com/crossroadsflex/) *(social)*
 
-## ⭐ Magnet/Pursuit Pride
+## ⭐ Pursuit Pride
 
 - [Submit photos Pursuit Photos HERE](https://docs.google.com/forms/d/e/1FAIpQLSdIsvi5BEKhJ9smP0xTz5oVdB4IZeZGZdZvmzWCkHXDlz2U4Q/viewform?usp=sharing&ouid=115496038802049110645) *(form)*
 - [Share an Event or Achievement](mailto:crossroadsflex@wcpss.net) *(email)*
