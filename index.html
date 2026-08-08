@@ -38,16 +38,26 @@ input[type="search"]:focus{ border-color:var(--accent-2); box-shadow:0 0 0 4px c
 }
 .grid{
   display:grid; gap:16px;
-  grid-template-columns: repeat( auto-fit, minmax(260px, 1fr) );
+  grid-template-columns: repeat( auto-fit, minmax(225px, 1fr) );
   margin-top:12px;
 }
 .card{
   background:var(--card); border:1px solid var(--border); border-radius:var(--radius); box-shadow:var(--shadow);
   padding:18px; display:flex; flex-direction:column; gap:12px;
 }
-.ctitle{ display:flex; align-items:center; gap:12px; }
-.ctitle .icon{ font-size:28px; }
-.ctitle h2{ font-size:18px; margin:0 }
+//.ctitle{ display:flex; align-items:center; gap:12px; }
+.ctitle{ display:flex; align-items:flex-start; gap:12px; }
+.ctitle .icon{ font-size:36px; }
+.ctitle h2{
+  font-size:18px; margin:0;
+  line-height:1.3;
+  min-height: calc(1.3em * 2); /* reserves space for 2 lines, even if text is 1 line */
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+  
+}
 .links{ display:flex; flex-direction:column; gap:10px; margin-top:4px; }
 .links a{
   display:flex; align-items:center; justify-content:space-between; gap:12px;
