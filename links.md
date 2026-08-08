@@ -3,11 +3,24 @@
 ## 🏫 About Our School
 
 - [Principal Message](https://crossroadsflexhs.wcpss.net/our-school/school-news) *(site)*
-- [School Improvement](https://crossroadsflexhs.wcpss.net/our-school/school-improvement-plan) *(site)*
 - [Contact Us](https://crossroadsflexhs.wcpss.net/our-school/contact-us) *(site)*
 - [Staff Directory](https://crossroadsflexhs.wcpss.net/our-school/faculty-staff-directory) *(site)*
 - [Facebook](https://www.facebook.com/people/Crossroads-FLEX-High-School/100095555411790/?mibextid=eQY6cl) *(social)*
 - [Instagram](https://www.instagram.com/crossroadsflex/) *(social)*
+
+## 📅 Schedules and Calendars
+
+- [Bell Schedule](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-our-school-calendar-and-schedules/post/bell-schedule-1772034859903) *(site)*
+- [Schedule Change Request Form](https://tinyurl.com/mr3radru) *(form)*
+- [School Calendar](https://crossroadsflexhs.wcpss.net/our-school/calendar-and-schedules) *(site)*
+- [Testing Calendar](https://docs.google.com/document/d/1tEVQiU2D-aU0QcxCebiV3CdC8_KyGlBF_Q1DdwRN3vk/edit?usp=sharing) *(doc)*
+
+## 🤝 Parent Teacher Student Association
+
+- [Join the FLEX PTSA](https://crossroadsflex.givebacks.com/shop?category=5357) *(store)*
+- [PTSA Website](http://www.crossroadsflexptsa.org/) *(site)*
+- [Get Involved](https://www.crossroadsflexptsa.org/support-our-ptsa) *(form)*
+- [Spirit Wear](https://crossroadsflex.givebacks.com/shop?category=5354) *(store)*
 
 ## 📚 Academics
 
@@ -24,12 +37,7 @@
 - [Course Registration](https://nc01911451.schoolwires.net/Page/54156) *(site)*
 - [Grade Level Information](https://nc01911451.schoolwires.net/Page/54159) *(site)*
 
-## 📅 Schedules and Calendars
 
-- [Bell Schedule](https://crossroadsflexhs.wcpss.net/page-detail/~board/crossroads-flex-our-school-calendar-and-schedules/post/bell-schedule-1772034859903) *(site)*
-- [Schedule Change Request Form](https://tinyurl.com/mr3radru) *(form)*
-- [School Calendar](https://crossroadsflexhs.wcpss.net/our-school/calendar-and-schedules) *(site)*
-- [Testing Calendar](https://docs.google.com/document/d/1tEVQiU2D-aU0QcxCebiV3CdC8_KyGlBF_Q1DdwRN3vk/edit?usp=sharing) *(doc)*
 
 ## ✅ Attendance
 
@@ -93,13 +101,9 @@
 - [Student Handbook & Signature Sheet](https://www.wcpss.net/hs/~board/family-resources/post/student-parent-handbook) *(site)*
 - [WCPSS School Board Policy](https://boardpolicyonline.com/bl/?b=wake_new) *(policy)*
 
-## 🤝 Parent Teacher Student Association
 
-- [PLEASE JOIN THE PTSA!!](https://crossroadsflex.givebacks.com/shop?category=5357) *(store)*
-- [PTSA Website](http://www.crossroadsflexptsa.org/) *(site)*
-- [Get Involved](https://forms.gle/bo7Y3jTCNP82eKBaA) *(form)*
-- [Sign-up Genius- Donate items or time!](https://www.signupgenius.com/go/10C0D4CA9A628A6F4C52-50407712-volunteer#/) *(forms)*
-- [Spirit Wear](https://crossroadsflex.givebacks.com/shop?category=5354) *(store)*
+## 📝 Additional School Information
+- [School Improvement](https://crossroadsflexhs.wcpss.net/our-school/school-improvement-plan) *(site)*
 
 ## ⭐ Magnet/Pursuit Pride
 
