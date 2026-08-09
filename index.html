@@ -180,8 +180,13 @@ document.addEventListener('DOMContentLoaded', () => {
           // Handle all list items under the current section
           tok.items?.forEach(item => {
             if (!current) return;
+           // This will intentionally not match the existing code, thus no pills are displayed
+            const linkMatch = item.text.match(/\[([^\]]+)\]\(([^)]+)\)(?:\s*_\(([^)]+)\)_)?/);
+           
+            // NOT IMPLEMENTING THIS FEATURE BUT LEAVING CODE HERE FOR FUTURE USE, IF DESIRED //
             // Expect format: [Label](URL) *(pill)*  (also accepts _(pill)_)
-            const linkMatch = item.text.match(/\[([^\]]+)\]\(([^)]+)\)(?:\s*[_*]\(([^)]+)\)[_*])?/);
+           // const linkMatch = item.text.match(/\[([^\]]+)\]\(([^)]+)\)(?:\s*[_*]\(([^)]+)\)[_*])?/);
+            // NOT IMPLEMENTING THIS FEATURE BUT LEAVING CODE HERE FOR FUTURE USE, IF DESIRED //
             if (linkMatch) {
               current.links.push({
                 label: linkMatch[1],
