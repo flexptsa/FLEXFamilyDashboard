@@ -116,23 +116,6 @@ footer{
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  // Edit Links
-  /*
-  const editBtn = document.getElementById('editLinksBtn');
-  if (editBtn) {
-    // Try to infer owner/repo from GitHub Pages URL structure
-    const owner = (location.hostname.endsWith('.github.io') && location.hostname.split('.')[0]) || 'flexptsa';
-    const repo = (location.pathname.split('/').filter(Boolean)[0]) || 'FLEXFamilyDashboard';
-    const branch = 'main'; // change to 'gh-pages' if you use that as default
-    const fallback = 'https://github.com/flexptsa/FLEXFamilyDashboard/edit/main/links.md';
-    try {
-      const url = `https://github.com/${owner}/${repo}/edit/${branch}/links.md`;
-      editBtn.href = url;
-    } catch {
-      editBtn.href = fallback;
-    }
-  }
-*/
   // Filter links by search term
   const q = document.getElementById('q');
   if (q) {
@@ -197,8 +180,8 @@ document.addEventListener('DOMContentLoaded', () => {
           // Handle all list items under the current section
           tok.items?.forEach(item => {
             if (!current) return;
-            // Expect format: [Label](URL) _(pill)_
-            const linkMatch = item.text.match(/\[([^\]]+)\]\(([^)]+)\)(?:\s*_\(([^)]+)\)_)?/);
+            // Expect format: [Label](URL) *(pill)*  (also accepts _(pill)_)
+            const linkMatch = item.text.match(/\[([^\]]+)\]\(([^)]+)\)(?:\s*[_*]\(([^)]+)\)[_*])?/);
             if (linkMatch) {
               current.links.push({
                 label: linkMatch[1],
