@@ -19,7 +19,7 @@
 
 - [Join the FLEX PTSA](https://crossroadsflex.givebacks.com/shop?category=5357) *(store)*
 - [PTSA Website](http://www.crossroadsflexptsa.org/) *(site)*
-- [Get Involved](https://www.crossroadsflexptsa.org/support-our-ptsa) *(form)*
+- [Get Involved](https://www.crossroadsflexptsa.org/support) *(form)*
 - [Spirit Wear](https://crossroadsflex.givebacks.com/shop?category=5354) *(store)*
 
 ## 📚 Academics
